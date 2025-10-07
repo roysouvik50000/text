@@ -9,3 +9,7 @@ myfn();
 function myfnNew(){
     return "myfnNew created"
 }
+
+function myfnNew1(){
+    return "myfnNew1 created"
+}
