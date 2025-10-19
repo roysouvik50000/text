@@ -4,5 +4,5 @@ const souvFn = ()=>{
 
 
 const newFn = ()=>{
-    return console.log("this functon is made by akhas")
+    return console.log("this functon is made by newAkhas")
 }
